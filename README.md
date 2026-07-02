@@ -67,4 +67,4 @@ We thank all survey participants — both online and offline — who contributed
 
 ## 8. License
 
-*(Specify a license — e.g. MIT, CC-BY-4.0, or "research use only" — to clarify how others may use this data.)*
+*( "research use only" )*
